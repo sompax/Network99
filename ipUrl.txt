@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/ipJP.txt@141.147.163.68
-https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/ipHK.txt@proxyip.amclubs.kozow.com
+https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/ipJP.txt
+https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/ipHK.txt
 https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/main/ipv4.csv
 https://raw.githubusercontent.com/sompax/Network99/refs/heads/main/ipUS.txt
